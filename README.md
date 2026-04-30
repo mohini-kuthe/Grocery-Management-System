@@ -11,6 +11,8 @@
 ## 📸 Application Preview
 
 ![App Screenshot](dashboard.png)
+![App Screenshot](admin.png)
+![App Screenshot](customer.png)
 
 
 ## 📌 About
