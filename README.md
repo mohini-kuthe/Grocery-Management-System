@@ -10,15 +10,8 @@
 
 ## 📸 Application Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](dashboard.png)
 
-> 💡 *To add your screenshot:*
-> 1. Run your app
-> 2. Press `Windows + Shift + S` to take a screenshot
-> 3. Save it as `screenshot.png`
-> 4. Upload it to your GitHub repo root folder
-
----
 
 ## 📌 About
 
